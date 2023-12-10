@@ -59,16 +59,16 @@ Con estos dos ejemplos podemos ver dos diferentes casos de hibridación:
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. 
 
-Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC. 
+- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC. 
 
-Ferran Adell. (16/04/2014). Remediación, multimedia e hibridación de los medios. Fundamentos y evolución de la multimedia . Recuperado el 10/12/2023, de http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans7.
+- Ferran Adell. (16/04/2014). Remediación, multimedia e hibridación de los medios. Fundamentos y evolución de la multimedia . Recuperado el 10/12/2023, de http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans7.
 
-colaboradores de Wikipedia. (2023a, septiembre 16). WII Sports. Recuperado de https://es.wikipedia.org/wiki/Wii_Sports
+- colaboradores de Wikipedia. (2023a, septiembre 16). WII Sports. Recuperado de https://es.wikipedia.org/wiki/Wii_Sports
 Markdown.es. (s. f.). Recuperado el 17 de mayo de 2023, de https://markdown.es/sintaxis-markdown/
 
-colaboradores de Wikipedia. (2023d, diciembre 7). WhatsApp. Recuperado de https://es.wikipedia.org/wiki/WhatsApp
+- Colaboradores de Wikipedia. (2023d, diciembre 7). WhatsApp. Recuperado de https://es.wikipedia.org/wiki/WhatsApp
 
-Colaboradores de Aiudo. (2023, 31 marzo). El WhatsApp para personas mayores: ventajas y usos - Aiudo Blog. Recuperado de https://aiudo.es/whatsapp-personas-mayores-beneficios-usos/
+- Colaboradores de Aiudo. (2023, 31 marzo). El WhatsApp para personas mayores: ventajas y usos - Aiudo Blog. Recuperado de https://aiudo.es/whatsapp-personas-mayores-beneficios-usos/
 
-Educacion 3.0 (2023, 4 enero). Videojuegos de ejercicio físico y diversión | EDUCACIÓN 3.0. Recuperado de https://www.educaciontrespuntocero.com/tecnologia/videojuegos-de-ejercicio-fisico/
+- Educacion 3.0 (2023, 4 enero). Videojuegos de ejercicio físico y diversión | EDUCACIÓN 3.0. Recuperado de https://www.educaciontrespuntocero.com/tecnologia/videojuegos-de-ejercicio-fisico/
 
