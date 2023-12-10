@@ -1,5 +1,6 @@
 # Visionando el futuro con las gafas de Manovich
 
+Autor: Iván Gómez Vadillo. Universitat Oberta de Catalunya
 
 ## La hibridación de medios.
 
