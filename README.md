@@ -50,11 +50,11 @@ Hoy en día no se puede negar que WhatsApp es una aplicacion **multifunción** n
 ## Conclusión.  
 
 
-Con estos dos ejemplos podemos ver dos diferentes casos de hibridación:
+Con estos dos ejemplos podemos ver dos diferentes casos de hibridación. Por un lado tenemos las **ideas** de Nintendo de reinventarse con cada consola y en esta generación no iban a ser menos. La posibilidad de poder "sentir" el movimiento de los personajes, poder meternos más en el papel y sentirte un poco más dentro de la experiencia del videojuego resultó un completo éxito. Tras ese éxito asociado al movimiento, tuvieron la brillante idea de fusionarlo con el ejercicio. Dos mundos generalmente separados se habían unido generando nuevas experiencias y nuevos juegos para poder disfrutar en compañía.
 
-- Uno, donde una buena idea creó una nueva forma de jugar y fue un completo éxito.
+Por el otro lado tenemos la necesidad de WhatsApp de no ser adelantado por Telegram. En cuestiones de vanguardia tecnológica Telegram siempre ha estado un paso por delante de nuestro querido WhatsApp, pero no así en usuarios. La compañía del logo verde sabe que no puede dormirse en los laureles y debe seguir mejorando cada día con nuevas funcionalidades. Esas nuevas funciones pueden no estar relacionadas intrinsecamente con el funcionamiento de un chat, como por ejemplo grupos de difusión, estados, stickers, encuestas, edición de mensajes... entre otros, pero WhatsApp sabe que ser el máximo referente conlleva una actualización constante. Fruto de esa actualización, la hibridación está presente en todas esas nuevas funciones o mejoras. Hoy en día no concebimos una aplicación de mensajería instantanea sin grupos, envío de multimedia, estados... Y esa normalidad nos lleva a ver la hibridación como algo normal, necesario y ,en ocasiones, como algo excepcional.
 
-- Otro, donde las necesidades de la población fueron creando una hibridación hasta conseguir que todas sus necesidades estuviesen cubiertas hasta el día de hoy.
+
 
 ## Bibliografía.
 
