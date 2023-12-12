@@ -8,7 +8,7 @@ En esta PEC hablaremos sobre la hibridación en dos casos: Wiisport y Whatsapp.
 
 Primero empezaremos definiendo que es la hibridación y que la diferencia de la multimedia:
 
-La **hibridación** es el proceso de remediación o fusión de los medios, dicha fusión genera una nueva experiencia nueva. Por separado los medios tienen una experiencia totalmente diferente a la suma de sus partes. La totalidad es mucho más que la suma de sus partes al crear una experiencia nueva.
+La **hibridación** es el proceso de remediación o fusión de los medios, dicha fusión genera una nueva experiencia nueva. Por separado los medios tienen una experiencia totalmente diferente a la suma de sus partes. La totalidad es mucho más que la suma de sus partes al crear una experiencia nueva.(Manovich, Lev, 2013)
 
 Por el contrario, en la **multimedia** podemos observar que la los medios están juntos pero cada uno tiene su experiencia totalmente definida de manera independiente. El ejemplo más claro es el de una página web. Podemos tener un periódico online en el que una noticia tiene un texto y un video que lo acompaña. El texto y el video tienen un significado por si solo y juntarlos no genera una nueva experiencia.
 
